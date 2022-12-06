@@ -1,11 +1,3 @@
-/**
- * @name LightBlue Neon Theme
- * @author PrintedJungle38#7324
- * @version 1.0.0
- * @description A dark theme with light blue neon-y colors!
- * @authorId 137259145305539072
-*/
-
 @import url(https://maendisease.github.io/BetterDiscordStuff/css/bearableInbox.css);
 :root {
 	--base-color: rgb(20, 26, 26);
@@ -79,10 +71,9 @@
 }
 
 /* --== NAME ==-- */
-/* puoi inserire anche tu il tuo nome che fa effetti speciali scrivendo il tuo data-author-id qui sotto
-                                        v                                                              */
-.message-2CShn3[data-author-id="747219836668608653"] div h2 span
-.username-h_Y3Us.desaturateUserColors-1O-G89.clickable-31pE3P {
+/* puoi inserire anche tu il tuo nome che fa effetti speciali scrivendo il tuo data-author-id qui sotto*/
+                             /*        \v/        */
+.message-username-1049796604032466954 .username-h_Y3Us.desaturateUserColors-1O-G89.clickable-31pE3P {
 	animation: show 2.5s linear;
 	animation-iteration-count: infinite;
 }
