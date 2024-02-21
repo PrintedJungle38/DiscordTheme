@@ -80,17 +80,6 @@
 /* --== NAME ==-- */
 /* puoi inserire anche tu il tuo nome che fa effetti speciali scrivendo il tuo data-author-id qui sotto*/
 							/*        \v/        */
-.contents_f41bb2>img[src="https://cdn.discordapp.com/avatars/564193757571055636/68b050e7467ebbe0e3e3381f947d7b2f.webp?size=80"] ~ .header__39b23
-.username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1 {
-	animation: show 2.5s linear;
-	animation-iteration-count: infinite;
-}
-
-@keyframes show{
-	100%,0% { color: rgb(0, 255, 255); }
-	50%{ color: rgb(0,0,255); }
-}
-
 /* --== Style discord bar ==-- */
 .appMount_fae9dd>div:nth-child(4) {
 	margin: 1px 1px 0;

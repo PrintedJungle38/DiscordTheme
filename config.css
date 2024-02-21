@@ -1,0 +1,42 @@
+:root {
+	--base-color: rgb(26, 20, 20);
+	--rgb-highlight: rgb(200, 0, 0);
+	--highlight: var(--rgb-highlight);
+	--background-variant: rgb(255, 0, 0);
+	--background-popup-info: rgb(37, 18, 18);
+	--color-base1: rgb(140, 0, 0);
+	--popup-messagge-unread: rgb(40, 20, 20);
+	--linear-gradient0: rgb(87, 0, 0);
+	--linear-gradient1: rgb(27, 16, 16);
+	--search-bar-text: rgb(50, 0, 0);
+	--ping-message: rgb(100, 0, 0);
+	--ping-message-hover: rgb(170, 0, 0);
+	--replied-message: rgb(70, 0, 0);
+	--placeholder-text: rgb(80, 60, 60);
+
+	--a: rgba(200, 0, 0, 0.07);
+	--b: rgba(200, 0, 0, 0.2);
+	--c: rgba(140, 0, 0, 0.07);
+	--d: rgba(200, 0, 0, 0.1);
+	--e: rgba(140, 0, 0, 0.1);
+	--f: rgba(140, 0, 0, 0.3);
+	--g: rgba(200, 0, 0, 0.3);
+	--h: rgba(140, 0, 0, 0.2);
+	--i: rgba(140, 0, 0, 0.15);
+	--j: rgba(255, 40, 40, 0.2);
+	--k: rgba(255, 40, 40, 0.4);
+	--l: rgba(140, 0, 0, 0.4);
+	--m: rgba(92, 79, 79, 0.4);
+	--n: rgba(180, 0, 0, 0.1);
+	--o: rgba(0, 0, 0, 0.5);
+}
+
+.contents_f41bb2>img[src="inserisci il link della tua pfp"] ~ .header__39b23
+.username_d30d99.desaturateUserColors_b72bd3.clickable_d866f1 {
+	animation: show 2.5s linear;
+	animation-iteration-count: infinite;
+}
+@keyframes show{
+	100%,0% { color: rgb(0, 255, 255); }
+	50%{ color: rgb(0,0,255); }
+}
